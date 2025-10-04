@@ -26,11 +26,6 @@ python Write.py
 
 ## Results 📊
 
-**Hand Movement | Version 1**
-
-
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/write.gif">
-
 </br>
 
 **Hand Movement | Version 2**
