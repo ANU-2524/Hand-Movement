@@ -35,24 +35,7 @@ python Write.py
 
 **Hand Movement | Version 2**
 
-
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/write_v2.gif" width=720>
-
-###### Made with ❤️ and 🦙 by Akshay Bahadur
-
-## 📌 Cite Us
-
-To cite this guide, use the below format:
-```
-@article{HandMovementTracking,
-author = {Bahadur, Akshay},
-journal = {https://github.com/akshaybahadur21/HandMovementTracking},
-month = {01},
-title = {{HandMovementTracking}},
-year = {2018}
-}
-```
-
+image drive link : https://drive.google.com/file/d/1fZgNbzWB0ceY1pAe_jILf4dtyYsneVi-/view?usp=sharing
 ## References 🔱
  
  -  [Adrian Rosebrock Ball Tracking](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
